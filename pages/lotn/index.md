@@ -1,7 +1,7 @@
 ---
 title: Legends of the North
 description: Overview of Legends of the North
-updated: August 1, 2026
+updated: Sep 10, 2026
 ---
 
 Legends of the North (LotN) is a free, Skyrim-inspired RPG plugin for Minecraft. It adds character creation, races, skills, custom combat, tempering, enchantments, alchemy, quests, fishing, survival mechanics, mob scaling, shouts, and fast travel.
@@ -11,10 +11,6 @@ Legends of the North (LotN) is a free, Skyrim-inspired RPG plugin for Minecraft.
 `/lotn` opens the main player menu. From there, players can access Character, Skills, Quest Journal, Enchantments, Alchemy, Shouts, Fast Travel, Codex, Fishdex, and Fish Exchange.
 
 `/lotnea` opens the administration menu and requires `lotn.admin`.
-
-## Default configs
-
-All default configuration files can be found in [github repo](https://github.com/lokahst/lotn) in folder `resources`.
 
 ## Important Notes
 
